@@ -1,9 +1,0 @@
-{
-    "applicationId": "js.neutralino.frit",
-    "version": "1.0.1",
-    "resourcesURL": "https://cdn.jsdelivr.net/gh/updater-neu/v1.0.1/resources.neu",
-    "data": {
-        "title": "紧急修复",
-        "message": "1.xxxxxxxxxx|2.xxxxxxxxxx|3.xxxxxxxxxx"
-    }
-}
