@@ -1,7 +1,7 @@
 {
     "applicationId": "js.neutralino.frit",
     "version": "1.0.0",
-    "resourcesURL": "https://gitee.com/fiir/update-repository/blob/master/frit/resources.neu",
+    "resourcesURL": "https://github.com/TTTTTTimi/updater-neu/blob/main/resources.neu",
     "data": {
         "title": "紧急修复",
         "message": "1.xxxxxxxxxx|2.xxxxxxxxxx|3.xxxxxxxxxx"
